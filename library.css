@@ -1,0 +1,35 @@
+.p-relative{
+    position: relative;
+}
+.p-absolute{
+    position: absolute;
+}
+.z-1{
+    z-index: 1;
+}
+.z-2{
+    z-index: 2;
+}
+.aspect-ratio-09-10{
+    aspect-ratio:0.9/1;
+}
+.text-decoration-none{
+    text-decoration: none;
+}
+.v-hidden{
+    visibility: hidden;
+}
+.align-items-baseline{
+    align-items: baseline;
+}
+@media (max-width:767px) {
+    .d-0-767-none{
+        display: none ;
+    }
+}
+.aspect-square-11-10{
+    aspect-ratio: 1.1/1;
+}
+.align-items-center{
+    align-items: center;
+}
